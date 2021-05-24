@@ -1,7 +1,7 @@
 
 ### *Hi there* 👋
 ----
-I am Willy and recently graduated from Junior Web Developer Bootcamp with Generation Australia in partnership with Academy Xi. Lots of stuff learnt (HTML, CSS, Javascript, Bootstrap) but there are still tons to be learnt and practice everyday. Next on the list is : REACT!.
+Enthusiastic to apply skills learned, acquiring new skills, and grow professionally.
 
 <!--
 **wsufianto/Wsufianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
